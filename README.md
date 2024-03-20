@@ -8,6 +8,7 @@
 |Folder\|File|Description|Documentation|
 |------|-----------|-------------|
 |`app/`|mobile app (flutter) | [README](./README.md)|
+|`package/`| built application package , supports `arm` & `x86` (if i remember correctly). | --|
 |`site/`|app website for showcasing the app|--|
 
 
