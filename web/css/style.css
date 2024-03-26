@@ -1,7 +1,21 @@
 .serif,.font-serif{
-    font-family: 'Noto Serif';
+    font-family:  'Noto Serif',serif;
 }
 
 .sans,.font-sans{
-    font-family: 'Comfortaa';
+    font-family: 'Comfortaa',sans-serif;
+}
+
+.text-pkd-primary{
+    color: #860057;
+}
+.text-pkd-accent{
+    color: #ACACDE;
+}
+
+.bg-pkd-primary{
+    background-color: #860057;
+}
+.bg-pkd-accent{
+    background-color: #ACACDE;
 }
