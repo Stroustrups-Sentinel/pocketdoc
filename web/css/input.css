@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
+/**
+*
+*   Pocketdoc CSS here
+*
+*/
 .serif,.font-serif{
     font-family:  'Noto Serif',serif;
 }
