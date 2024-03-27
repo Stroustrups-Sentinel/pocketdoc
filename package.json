@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "css:watch":"npx tailwindcss -i ./web/css/input.css -o ./web/css/style.css --watch",
-    "css:build":"npx tailwindcss -o ./web/css/prod.css --minify"
+    "css:build":"npx tailwindcss -o prod.css --minify"
   },
   "repository": {
     "type": "git",
