@@ -5,8 +5,8 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "css:watch":"npx tailwindcss -i ./web/css/input.css -o ./web/css/style.css --watch",
-    "css:build":"npx tailwindcss -o prod.css --minify"
+    "css:watch": "npx tailwindcss -i ./web/css/input.css -o ./web/css/style.css --watch",
+    "css:build": "npx tailwindcss -o prod.css --minify"
   },
   "repository": {
     "type": "git",
